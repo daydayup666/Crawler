@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<title>Committees | The 9th International Conference on Bio-inspired Computing: Theories and Applications (BIC-TA 2014)</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://2014.bicta.org/wp-content/themes/twentyten/style.css" />
+<link rel="pingback" href="http://2014.bicta.org/xmlrpc.php" />
+
+<link rel="alternate" type="application/rss+xml" title="The 9th International Conference on Bio-inspired Computing: Theories and Applications (BIC-TA 2014) &raquo; Feed" href="http://2014.bicta.org/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="The 9th International Conference on Bio-inspired Computing: Theories and Applications (BIC-TA 2014) &raquo; 评论Feed" href="http://2014.bicta.org/?feed=comments-rss2" />
+<link rel='stylesheet' id='wpfb-css'  href='http://2014.bicta.org/wp-content/plugins/wp-filebase/wp-filebase_css.php?rp=wp-content%2Fuploads%2Ffilebase&#038;ver=0.3.0.02' type='text/css' media='all' />
+<link rel='stylesheet' id='sdm-styles-css'  href='http://2014.bicta.org/wp-content/plugins/simple-download-monitor/css/sdm_wp_styles.css?ver=3.7.5' type='text/css' media='all' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://2014.bicta.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://2014.bicta.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Keynote Speakers' href='http://2014.bicta.org/?page_id=63' />
+<link rel='next' title='Program' href='http://2014.bicta.org/?page_id=74' />
+<meta name="generator" content="WordPress 3.7.5" />
+<link rel='canonical' href='http://2014.bicta.org/?page_id=66' />
+<link rel='shortlink' href='http://2014.bicta.org/?p=66' />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #cccccc; }
+</style>
+</head>
+
+<body class="page page-id-66 page-template-default custom-background">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<div id="site-title">
+					<span>
+					<a title="The 9th International Conference on Bio-inspired Computing: Theories and Applications (BIC-TA 2014)" rel="home">The 9th International Conference on Bio-inspired Computing: Theories and Applications (BIC-TA 2014)</a>
+					</span>
+				</div>
+				<div id="site-description"> October 16&#8211;19, 2014, Wuhan, China</div>
+
+										<img src="http://2014.bicta.org/wp-content/uploads/2013/11/cropped-Head11.png" width="940" height="200" alt="" />
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="跳至正文">跳至正文</a></div>
+								<div class="menu-header"><ul id="menu-%e8%8f%9c%e5%8d%951" class="menu"><li id="menu-item-551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a href="http://2014.bicta.org/">Home</a></li>
+<li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a href="http://2014.bicta.org/?page_id=60">Call for Papers</a></li>
+<li id="menu-item-558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558"><a href="http://2014.bicta.org/?page_id=63">Keynote Speakers</a></li>
+<li id="menu-item-563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-563"><a href="http://2014.bicta.org/?page_id=77">Registration</a></li>
+<li id="menu-item-561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561"><a href="http://2014.bicta.org/?page_id=74">Program</a></li>
+<li id="menu-item-562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-562"><a href="http://2014.bicta.org/?page_id=89">Publication</a></li>
+<li id="menu-item-564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-564"><a href="http://2014.bicta.org/?page_id=92">Submission</a></li>
+<li id="menu-item-557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557"><a href="http://2014.bicta.org/?page_id=83">Host City</a></li>
+<li id="menu-item-553" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-66 current_page_item menu-item-553"><a href="http://2014.bicta.org/?page_id=66">Committees</a></li>
+<li id="menu-item-656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="http://2014.bicta.org/?page_id=654">Travel Information</a></li>
+<li id="menu-item-659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-659"><a href="http://2014.bicta.org/?page_id=657">Accommodation</a></li>
+<li id="menu-item-662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-662"><a href="http://2014.bicta.org/?page_id=660">Conference Venue</a></li>
+<li id="menu-item-696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-696"><a href="http://2014.bicta.org/?page_id=694">Photos in BIC-TA</a></li>
+</ul></div>			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+
+				<div id="post-66" class="post-66 page type-page status-publish hentry">
+											<h1 class="entry-title">Committees</h1>
+					
+					<div class="entry-content">
+						<h2><strong>Steering Committee</strong><span style="font-size: 16px;"><br />
+</span></h2>
+<p><span style="line-height: 32px; font-size: 18px; color: #000000;">Guangzhao Cui, Zhengzhou University of Light Industry, China<br />
+Kalyanmoy Deb, Indian Institute of Technology Kanpur, India<br />
+Miki Hirabayashi, National Institute of Information and Communications Technology (NICT), Japan<br />
+Joshua Knowles, University of Manchester, UK<br />
+Thom LaBean, North Carolina State University, USA<br />
+Jiuyong Li, University of South Australia, Australia<br />
+Kenli Li, University of Hunan, China<br />
+Giancarlo Mauri, Università di Milano-Bicocca, Italy<br />
+Yongli Mi, Hong Kong University of Science and Technology, Hong Kong<br />
+Atulya K. Nagar, Liverpool Hope University, UK<br />
+Linqiang Pan, Huazhong University of Science and Technology, China<br />
+Gheorghe Paun, Romanian Academy, Bucharest, Romania<br />
+Mario J. Perez-Jimenez, University of Sevilla, Spain<br />
+K. G. Subramanian, Universiti Sains Malaysia, Malaysia<br />
+Robinson Thamburaj, Madras Christian College , India<br />
+Jin Xu, Peking University, China<br />
+Hao Yan, Arizona State University, USA</span></p>
+<h2><span style="color: #000000;"><strong>Organizing committee</strong></span></h2>
+<h3></h3>
+<h3>Guangzhao Cui, Zhengzhou University of Light Industry, China &#8212; <strong>Co-Chair</strong><br />
+Linqiang Pan, Huazhong University of Science and Technology, China &#8212; <strong>Chair</strong><br />
+Xiaolong Shi, Huazhong University of Science and Technology , China<br />
+Tao Song, Huazhong University of Science and Technology, China &#8212; <strong>Co-chair</strong><br />
+Zheng Zhang, Huazhong University of Science and Technology, China<br />
+Zhiqiang Zhang, Huazhong University of Science and Technology, China<br />
+Keqin Jiang, Huazhong University of Science and Technology, China</h3>
+<h3><span style="color: #000000;"><strong style="font-size: 1.4em;">Program committee</strong></span></h3>
+<h3>Rosni Abdullah, Universiti Sains Malaysia, Malaysia<br />
+Muhammad Abulaish, King Saud University, Saudi Arabia<br />
+Chang Wook Ahn, Sungkyunkwan University, South Korea<br />
+Adel Al-Jumaily, Uinversity of Technology Sydney, Australia<br />
+Bahareh Asadi, Iran<br />
+Li He, Qualcomm, USA<br />
+Eduard Babulak, European Commission, Community Research and Development Information<br />
+Mehdi Bahrami, Rafsanjan University of Medical Sciences, Iran<br />
+Soumya Banerjee, Birla Institute of Technology Mesra, India<br />
+Jagdish Chand Bansal, ABVII Information Technology and Managemment, India<br />
+Debnath Bhattacharyya, Heritage Institute of Technology, India<br />
+Monowar H. Bhuyan, Tezpur University, India<br />
+Kavita Burse, Truba Institute of Engineering and Information Technology, India<br />
+Michael Chen, University of Jinan, China<br />
+Tsung-Che Chiang, National Taiwan Normal University, Taiwan<br />
+Sung-Bae Cho, Yonsei University, South Korea<br />
+Kadian Davis, University College of the Caribbean, Jamaica<br />
+Sumithra Devi K A, R V College Of Engineering, India<br />
+Ciprian Dobre, University Politehnica of Bucharest, Romania<br />
+Amit Dutta, Barkatullah University, India<br />
+Carlos Fernandez-Llatas, Universidad Politecnica de Valencia, Spain<br />
+Pierluigi Frisco, Heriot-Watt University, UK<br />
+Shan He, University of Birmingham, UK<br />
+Jer Lang Hong, Taylors University, Malaysia<br />
+Tzung-Pei Hong, National University of Kaohsiung, Taiwan<br />
+Wei-Chiang Hong, Oriental Institute of Science and Technology, Taiwan<br />
+Mo Hongwei, Harbin Engineering University, China<br />
+Sriman Narayana Iyengar,VIT University, India<br />
+Antonio J.Jara, University of Murcia, Spain<br />
+Sunil Kumar Jha, Banaras Hindu University, India<br />
+Guoli Ji, Xiamen University, China<br />
+Mohamed Rawidean Mohd Kassim, National R&amp;D Centre in ICT, Malaysia<br />
+M.Ayoub Khan, Centre for Development of Advanced Computing, India<br />
+Razib Hayat Khan, Norwegian Univeristy of Sceince &amp; Technology, Norwegian<br />
+Joanna Kolodziej, University of Bielsko-Biala, Poland<br />
+Ashwani Kush, Kurukshetra University, India<br />
+Shyam Lal, Moradabad Institute of Technology, India<br />
+Kenli Li, Hunan University, China<br />
+Chun-Wei Lin, Harbin Institute of Technology Shenzhen Graduate School, China<br />
+Wenjian Luo, University of Science and Technology of China, China<br />
+Mario J. Perez-Jimenez, University of Sevilla, Spain Co-Chair<br />
+Vittorio Maniezzo, University of Bologna, Italy<br />
+Francesco Marcelloni, University of Pisa, Italy<br />
+Hasimah Mohamed, University of Sains Malaysia, Malaysia<br />
+Chilukuri K Mohan, Syracuse University, USA<br />
+Abdulqader Mohsen, University of Science Malaysia, Malaysia<br />
+Holger Morgenstern, Albstadt-Sigmaringen University, Germany<br />
+Andres Mu?oz, Universidad de Murcia, Spain<br />
+G.R.S. Murthy, MITS, Gwalior, India<br />
+Akila Muthuramalingam, CSI College of Engineering, India<br />
+Atulya Nagar, Liverpool Hope University Liverpool, UK<br />
+Asoke Nath, St. Xavier&#8217;s College, India<br />
+Linqiang Pan, Huazhong University of Science and Technology, China Chair<br />
+Mrutyunjaya Panda, Gandhi Institute for Technological Advancement, India<br />
+Manjaree Pandit, MITS GWALIOR, India<br />
+Gheorghe Paun, Romanian Academy, Bucharest, Romania Co-Chair<br />
+Andrei Paun, Louisiana Tech University, USA<br />
+Yoseba Penya, University of Deusto, Spain<br />
+Ninan Sajeeth Philip, St. Thomas College, India<br />
+Hugo Proen?a, Univeristy of Beira Interior, Portugal<br />
+Balwinder Raj, NIT Jalandhar, India<br />
+Balasubramanian Raman, Indian Institute of Technology Roorkee, India<br />
+Nur&#8217;Aini Abdul Rashid, Universiti Sains Malaysia, Malaysia<br />
+Mehul Raval, Ahmedabad University, India<br />
+Rawya Rizk, Port Said University, Egypt<br />
+Thamburaj Robinson, Madras Christian College, India<br />
+Samrat Sabat, University of Hyderabad, India<br />
+S M Sameer, National Institute of Technology Calicut, India<br />
+Rajesh Sanghvi, G.H.Patel College of Engineering &amp; Technology, India<br />
+Aradhana Saxena, Indian Institute of Information Technology and Management, India<br />
+Sonia Schulenburg, Level E Capital Limited, UK<br />
+G. Shivaprasad, Manipal Institute of Technology, India<br />
+K K Shukla, Indian Institute of Technology (BHU) Varanasi, India<br />
+Madhusudan Singh, Dongseo University, South Korea<br />
+Pramod Kumar Singh, ABVII Information Technology and Management Gwalior, India<br />
+Ravindra Singh, Motilal Nehru National Institute of Technology, India<br />
+Sanjeev Singh, Sant Longowal Institute of Engineering &amp; Technology, India<br />
+Satvir Singh, SBS College of Engineering &amp; Technology, India<br />
+Don Sofge, Naval Research Laboratory, USA<br />
+Tao Song, Huazhong University of Science and Technology, China<br />
+Kumbakonam Govindarajan Subramanian, Univ. Sains Malaysia, Minden<br />
+Ponnuthurai Suganthan, Nanyang Technological University, Singapore<br />
+S. R. Thangiah, Slippery Rock University, USA<br />
+Nikolaos Thomaidis, University of the Aegean, India<br />
+D. G. Thomas, Madras Christian College, India<br />
+Ravi Sankar Vadali, Gandhi Institute of Technology and Management, India<br />
+Ibrahim Venkat, Universiti Sains Malaysia, Malaysia<br />
+Sudhir Warier, Reliance Communications Limited, India<br />
+Ram Yadav, M.A. National Institute of Technology, USA<br />
+Umi Kalsom Yusof, University Sains Malaysia, Malaysia<br />
+Sotirios Ziavras, New Jersey Institute of Technology, USA<br />
+Pan Zheng, Swinburne University of Technology Sarawak Campus, Malaysia</h3>
+<h3>(under updating)</h3>
+																	</div><!-- .entry-content -->
+				</div><!-- #post-## -->
+
+				
+			<div id="comments">
+
+
+
+		
+</div><!-- #comments -->
+
+
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+
+<li id="text-4" class="widget-container widget_text"><h3 class="widget-title">Important Dates</h3>			<div class="textwidget"><p>Submission deadline:<br />
+June 14, 2014 </p>
+<p>Notification:<br />
+June 31, 2014 </p>
+<p>Registration:<br />
+July 15—31, 2014</p>
+</div>
+		</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+
+		<div id="secondary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+				<li id="text-7" class="widget-container widget_text"><h3 class="widget-title">Latest News</h3>			<div class="textwidget"><p>Important Note:</p>
+<p>All the papers should be firstly submitted to BICTA-2014 for Peer Review. After that, the selected ones can be submitted to a Special Issue of the Journals.</p>
+<p>Due the deadline of Submission is extended to June 14,the Notification date is extended to July, 10, 2014</p>
+<p>Communications in Computer and Information Science (CCIS) Volume 472 (Proceedings of BIC-TA 2014) is now available online. See Page Publication.</p>
+<p>The program of BIC-TA 2014 has been uploaded.</p>
+</div>
+		</li>			</ul>
+		</div><!-- #secondary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="site-info" 2222>
+				
+			</div><!-- #site-info -->
+
+			<div id="site-generator">
+								
+			</div><!-- #site-generator -->
+<p> <font size="4.5" face="Verdana" fontweight="bold" color="blue">
+
+ Contact information: </font></p>
+
+<p> <font size="4.5" face="Verdana" fontweight="bold"> Email: bicta2014@gmail.com  &nbsp QQ group: 317874922 &nbsp   Mobile: 18672313981 张博士 18202716632 何博士</font></p>
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+
+</body>
+</html>
